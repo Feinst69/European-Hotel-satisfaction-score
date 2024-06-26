@@ -15,7 +15,7 @@
 - **Average Service Ratings by Age Group**:
   ![Average Service Ratings by Age Group](results/figures/average_ratings_by_age_group.png)
 - **Lowest Rated Services by Age Group**:
-  ![Lowest Rated Services by Age Group](results/figures/lowest_rated_services.png)
+  ![Lowest Rated Services by Age Group](results/figures/reason of travel.png)
 
 ## Suggestions for Improvement
 
